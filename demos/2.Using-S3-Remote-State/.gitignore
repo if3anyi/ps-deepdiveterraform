@@ -1,0 +1,4 @@
+terraform.tfvars
+prerequisites/.terraform
+prerequisites/terraform.tfstate
+prerequisites/terraform.tfstate.backup
