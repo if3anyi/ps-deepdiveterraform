@@ -1,0 +1,4 @@
+terraform.tfvars
+remotestate/.terraform
+remotestate/terraform.tfstate
+remotestate/terraform.tfstate.backup
